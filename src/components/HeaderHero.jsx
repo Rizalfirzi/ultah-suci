@@ -58,8 +58,8 @@ export default function HeaderHero({ onNavigate }) {
         <div className="relative rounded-3xl overflow-hidden p-1.5 bg-gradient-to-b from-pink-400/50 via-rose-500/30 to-purple-500/50 shadow-[0_15px_35px_rgba(236,72,153,0.3)] animate-romantic-float">
           <div className="relative rounded-[22px] overflow-hidden bg-gray-900 aspect-[4/5]">
             <img
-              src="/photos/suci/suci_01.webp"
-              alt="Suci Nur Fitri"
+              src="/photos/hero_romantic.webp"
+              alt="Suci Nur Fitri & Rizal"
               className="w-full h-full object-cover object-top"
               loading="eager"
             />
